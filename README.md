@@ -41,8 +41,7 @@ Provide interactive filtering for data exploration.
 
 <img width="1659" height="852" alt="Dashboard" src="https://github.com/user-attachments/assets/3eddfd32-fd46-41ab-94e8-0c0568868207" />
 
-Author
-
+Author:
 Joel Smith J
 
 
